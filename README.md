@@ -1,0 +1,1 @@
+Product that will be able to listen to meeting audio and pdf file of presentations to turn into small manageable task for each team member listens to the information summarieses it lays it out in a structred format making descions and asssignes different responsibilities 
