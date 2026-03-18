@@ -1,0 +1,27 @@
+ai-meeting-intelligence/
+├── backend/
+│   ├── app.py                 # Backend application
+│   ├── requirements.txt       # Python dependencies
+│   └── .env.example           # Environment variables template
+│
+├── frontend/
+│   ├── index.html             # User interface
+│   ├── styles.css             # Styling
+│   ├── script.js              # Frontend logic
+│   └── requirements.txt       # Frontend dependencies (if needed)
+│
+└── .gitignore
+
+Project Summary: Meeting Intelligence Hub
+
+We’re building a smart meeting analysis platform that processes both meeting conversations and presentation slides to generate summaries, decisions, and actionable tasks.
+
+Instead of manually reviewing long meetings, users get clear insights, structured outputs, and assigned responsibilities, all in one place.
+
+ackend:
+cd backend
+pip install -r requirements.txt
+python app.py
+
+Frontend:
+Open frontend/index.html in browser
