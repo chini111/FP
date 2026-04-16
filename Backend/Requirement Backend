@@ -7,8 +7,3 @@ Instead of manually reviewing long meetings, users get clear insights, structure
 
 We are going to be using spring java and open rota to create the backend
 
-backend:
-cd backend
-pip install -r requirements.txt
-python app.py
-
