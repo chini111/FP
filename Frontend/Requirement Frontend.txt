@@ -1,0 +1,12 @@
+
+Project Summary: Meeting Intelligence Hub
+
+We’re building a smart meeting analysis platform that processes both meeting conversations and presentation slides to generate summaries, decisions, and actionable tasks.
+
+Instead of manually reviewing long meetings, users get clear insights, structured outputs, and assigned responsibilities, all in one place.
+
+We are planning to use React to build the frontend
+
+Frontend:
+Open frontend/index.html in browser
+
