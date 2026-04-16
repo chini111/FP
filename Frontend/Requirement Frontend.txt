@@ -7,6 +7,5 @@ Instead of manually reviewing long meetings, users get clear insights, structure
 
 We are planning to use React to build the frontend
 
-Frontend:
-Open frontend/index.html in browser
+
 
